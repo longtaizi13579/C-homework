@@ -1,0 +1,17 @@
+﻿  Elective-course.cpp
+  Required-courses.cpp
+Required-courses.cpp(9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+Required-courses.cpp(17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  data.cpp
+  mainly.cpp
+  student.cpp
+student.cpp(127): warning C4101: “get”: 未引用的局部变量
+  system.cpp
+system.cpp(378): warning C4101: “grade”: 未引用的局部变量
+  teacher.cpp
+  正在生成代码
+  33 of 632 functions ( 5.2%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  c++.vcxproj -> D:\gitKraken\doing\change\Release\c++.exe
